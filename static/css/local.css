@@ -14,3 +14,29 @@ body > main > section > article {
 .nav-btn:hover, .nav-btn:focus {
 	opacity: 0.8;
 }
+article.latestnews article {
+	margin: 0;
+	padding: 0;
+}
+@media only screen and (min-width: 52em) {
+	article.latestnews article {
+		float: left;
+		width: 45%;
+	}
+	article.latestnews article:first-child {
+		padding-right: 2em;
+	}
+	article.latestnews h2 {
+		margin-top: 0;
+		font-size: 1em;
+	}
+	article.latestnews header > div > h5 {
+		float: left;
+		padding-right: 0.5em;
+	}
+	article.latestnews h5 {
+		font-style: italic;
+		font-weight: normal;
+		margin-bottom: 0.3em;
+	}
+}

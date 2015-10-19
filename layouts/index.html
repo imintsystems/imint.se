@@ -21,7 +21,15 @@
 		</section>
 		<section>
 			{{ range .Site.Sections.start.Pages.ByWeight }}
+				{{ if .Params.latestnews }}
+					<article class="latestnews">
+						{{ range first 2 .Site.Sections.nyheter.Pages.ByDate.Reverse }}
+							{{ .Render "summary" }}
+						{{ end }}
+					</article>
+				{{ else }}
 			   {{ partial "article.html" . }}
+				{{ end }}
 			{{ end }}
 		</section>
 	</main>
