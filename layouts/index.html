@@ -10,18 +10,26 @@
 		</div>
 	</nav>
 	<main>
-		<section style="position: relative; color: white;">
-			<video autoplay loop style="max-width: 100%;">
+		<section id="intro-video">
+			<video autoplay loop muted>
 				<source src="/start/beforeAfter.mp4" type="video/mp4"/>
 				<!--<source src="/start/beforeAfter.webm" type="video/webm"/>-->
 				Your browser does not support the video tag.
 			</video>
-			<h5 style="position: absolute; bottom: 0%; right: 50%; padding-right: 20%;">utan Vidhance</h5>
-			<h5 style="position: absolute; bottom: 0%; left: 50%; padding-left: 20%;">med Vidhance</h5>
+			<h5 id="intro-video-header-left">utan Vidhance</h5>
+			<h5 id="intro-video-header-right">med Vidhance</h5>
 		</section>
 		<section>
 			{{ range .Site.Sections.start.Pages.ByWeight }}
+				{{ if .Params.latestnews }}
+					<article class="latestnews">
+						{{ range first 2 .Site.Sections.nyheter.Pages.ByDate.Reverse }}
+							{{ .Render "summary" }}
+						{{ end }}
+					</article>
+				{{ else }}
 			   {{ partial "article.html" . }}
+				{{ end }}
 			{{ end }}
 		</section>
 	</main>

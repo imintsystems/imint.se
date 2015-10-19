@@ -1,7 +1,7 @@
 +++
 title = "Komprimering"
 date = 2015-10-14T00:00:00Z
-image = "video-compression.jpg"
+image = "compression.jpg"
 weight = 30
 [menu.main]
 parent = "Lösningar"

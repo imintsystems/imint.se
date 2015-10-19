@@ -2,7 +2,8 @@ body > header {
 	background-color: white;
 }
 body {
-	background-color: #d8dfe5;
+	background: #d8dfe5;
+	background: linear-gradient(#d8dfe5, #dfe5e9) fixed;
 }
 body > main > section > article {
 	background-color: #dfe5e9;
@@ -13,4 +14,60 @@ body > main > section > article {
 }
 .nav-btn:hover, .nav-btn:focus {
 	opacity: 0.8;
+}
+article.latestnews article {
+	margin: 0;
+	padding: 0;
+}
+section#intro-video {
+	position: relative;
+	color: white;
+}
+section#intro-video video {
+	max-width: 100%;
+}
+section#intro-video h5 {
+	position: absolute;
+	bottom: 0%;
+}
+h5#intro-video-header-left {
+ 	left: 50%;
+	padding-left: 20%;
+}
+h5#intro-video-header-right {
+	right: 50%;
+	padding-right: 20%;
+}
+@media only screen and (min-width: 52em) {
+	article.latestnews article {
+		float: left;
+		width: 45%;
+	}
+	article.latestnews article:first-child {
+		padding-right: 2em;
+	}
+	article.latestnews h2 {
+		margin-top: 0;
+		font-size: 1em;
+	}
+	article.latestnews header > div > h5 {
+		float: left;
+		padding-right: 0.5em;
+	}
+	article.latestnews h5 {
+		font-style: italic;
+		font-weight: normal;
+		margin-bottom: 0.3em;
+	}
+	section#intro-video video {
+		max-width: 52em;
+	}
+	h5#intro-video-header-left {
+	 	left: 50%;
+		padding-left: 15em;
+	}
+	h5#intro-video-header-right {
+		right: 50%;
+		padding-right: 15em;
+	}
 }
