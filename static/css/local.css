@@ -3,7 +3,7 @@ body > header {
 }
 body {
 	background: #d8dfe5;
-	background: linear-gradient(#d8dfe5, #dfe5e9) fixed;
+	background: linear-gradient(to right, #d8dfe5, #dfe5e9, #dfe5e9, #d8dfe5) fixed;
 }
 body > main > section > article {
 	background-color: #dfe5e9;
