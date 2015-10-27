@@ -1,7 +1,7 @@
 +++
 title = "Appar och sociala medier"
 date = 2015-10-14T00:00:00Z
-image = "socmedia.jpg"
+image = "socmedia.png"
 weight = 20
 [menu.main]
 parent = "Lösningar"
