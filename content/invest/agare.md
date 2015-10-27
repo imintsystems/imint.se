@@ -19,4 +19,4 @@ UUAB främjar samarbete mellan Uppsala universitet och industrin. De gör detta 
 
 # Övriga
 I övrigt ägs Imint av en kombination av tidiga och mer nytillkomna investerare, samt medarbetare, totalt idag runt 80 ägare.
-[Förteckning över Imints 10 största](/invest/imint_tio_storsta_agare.pdf)
+[Förteckning över Imints 10 största ägare](/invest/imint_tio_storsta_agare.pdf)
