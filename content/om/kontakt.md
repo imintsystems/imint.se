@@ -13,5 +13,3 @@ Det enklaste sättet att kontakta oss är via vårt kontaktformulär nedan. Vi f
 <script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
 <script>Cognito.load("forms", { id: "6" });</script>
 </div>
-
-![smalandsnation](/om/kontakt/smalandsnation.jpg)

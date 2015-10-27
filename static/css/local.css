@@ -2,7 +2,8 @@ body > header {
 	background-color: white;
 }
 body {
-	background-color: #d8dfe5;
+	background: #d8dfe5;
+	background: linear-gradient(#d8dfe5, #dfe5e9) fixed;
 }
 body > main > section > article {
 	background-color: #dfe5e9;
@@ -30,12 +31,12 @@ section#intro-video h5 {
 	bottom: 0%;
 }
 h5#intro-video-header-left {
- 	left: 50%;
-	padding-left: 20%;
-}
-h5#intro-video-header-right {
 	right: 50%;
 	padding-right: 20%;
+}
+h5#intro-video-header-right {
+ 	left: 50%;
+	padding-left: 20%;
 }
 @media only screen and (min-width: 52em) {
 	article.latestnews article {
@@ -62,11 +63,11 @@ h5#intro-video-header-right {
 		max-width: 52em;
 	}
 	h5#intro-video-header-left {
-	 	left: 50%;
-		padding-left: 15em;
-	}
-	h5#intro-video-header-right {
 		right: 50%;
 		padding-right: 15em;
+	}
+	h5#intro-video-header-right {
+	 	left: 50%;
+		padding-left: 15em;
 	}
 }
