@@ -13,6 +13,7 @@ Den 2 november 2015, inleds teckningstiden i Imint Image Intelligence AB:s (Imin
 
 
 ## Relaterade nyheter
+* [Video från aktiepresentationen i Göteborg](https://redeye.solidtango.com/widgets/embed/vw555bh5?auto_play=false&rel=1): Redeye 2015-11-03
 * [Placera skriver om Imint](https://www.avanza.se/placera/redaktionellt/2015/11/02/vi-ar-i-en-klassisk-hajpfas-for-dronare.plc.html): Placera 2015-11-02
 * [Video av Imints presentation på Aktiedagen](http://aktiespararna.fnf.nu/player/#/74/626): Aktiespararna, 2015-10-19
 * [Andreas Lifvendahls drönarbolag byter spår – går in på Aktietorget](http://breakit.se/artikel/1615/andreas-lifvendahls-dronarbolag-byter-spar-gar-in-pa-aktietorget): Breakit, 2015-10-16
