@@ -8,9 +8,8 @@ parent = "Investor relations"
 name = "Kalendarium"
 +++
 
-# Kalendarium
 |   Datum       |   Tid           |   Plats      |   Adress       
-|---------------|:---------------:|-------------:|-------------------------------:|                                     
+|---------------|:---------------:|:------------:|-------------------------------|                   
 |   20 okt      |   18:00-20:00   |   Lund       |   Elite Hotel Ideon, Scheelevägen 27                    
 |   21 okt      |   18:00-20:00   |   Jönköping  |   Science Park, Gjuterigatan 9 (Aktiespararna)
 |   26 okt      |   17:30-20:00   |   Västerås   |   Elite Stadshotellet Västerås. Stora Torget 1
