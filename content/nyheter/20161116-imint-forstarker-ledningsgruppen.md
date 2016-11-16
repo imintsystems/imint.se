@@ -8,10 +8,8 @@ Imint Image Intelligence AB (Imint) utökar ledningsgruppen för att effektivare
 Jens Ålander kommer närmast från Ericsson där han haft en rad seniora och ledande finansroller såväl i Sverige som internationellt. Han har mer än 10 års erfarenhet från ett flertal finanspositioner utomlands, baserad i Italien, Turkiet och Dubai. Jens finansiella kunskap, ledaregenskaper, förståelse för processer samt långa internationella vana är just vad Imint behöver i detta viktiga utvecklingsskede.
 
 
->Jag är väldigt glad att kunna knyta Jens Ålander till Imint då han kompletterar oss på ett utomordentligt sätt. Han kommer att förstärka och bredda Imints ledning genom sin långa erfarenhet från internationell verksamhet och med sin gedigna kompetens inom verksamhet- och ekonomistyrning. I det skede vi nu är som bolag, kommer Jens in i ett för oss idealiskt läge, då vi behöver rikta våra krafter och talanger än mer fokuserat.
-<cite>Andreas Lifvendahl</cite>
+*"Jag är väldigt glad att kunna knyta Jens Ålander till Imint då han kompletterar oss på ett utomordentligt sätt. Han kommer att förstärka och bredda Imints ledning genom sin långa erfarenhet från internationell verksamhet och med sin gedigna kompetens inom verksamhet- och ekonomistyrning. I det skede vi nu är som bolag, kommer Jens in i ett för oss idealiskt läge, då vi behöver rikta våra krafter och talanger än mer fokuserat"*, säger VD Andreas Lifvendahl.
 
->Jag är glad och stolt över att få chansen att vara med och forma Imints framtid. Att gå från ett stort globalt företag till ett spännande och innovativt företag som Imint känns väldigt inspirerande. Det finns en stor potential i Imints ambition och affärsidé kring videofilmning i mobilen som tilltalar mig starkt.
-<cite>Jens Ålander</cite>
+*"Jag är glad och stolt över att få chansen att vara med och forma Imints framtid. Att gå från ett stort globalt företag till ett spännande och innovativt företag som Imint känns väldigt inspirerande. Det finns en stor potential i Imints ambition och affärsidé kring videofilmning i mobilen som tilltalar mig starkt"*, säger Jens Ålander.
 
 Jens har arbetat med Imint sedan början av oktober och aktivt varit delaktig i nyemissionen som genomfördes i slutet av oktober. Nuvarande CFO, Hans Richter, som varit CFO på deltid sedan våren 2015, kvarstår som konsult till bolaget dock i en mer renodlad rådgivande roll. Hans Richter har mycket värdefull erfarenhet från mindre noterade bolag.
