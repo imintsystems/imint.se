@@ -68,7 +68,7 @@ SVAR: Vårt fokus ligger just nu på konsumentmarknaden för mobila enheter, men
 
 **FRÅGA: Det är känt att ni klarar av 4k, men har ni några praktiska och teoretiska övre begränsningar vad det gäller antal pixlar?**
 
-Specifika tekniska frågor som inte besvaras i vårt publikt tillgängliga marknadsmaterial svarar vi som huvudregel på enbart i kundkommunikation. Information angående våra produkter och vad de gör finns på vår hemsida [www.vidhance.com](www.vidhance.com).
+Specifika tekniska frågor som inte besvaras i vårt publikt tillgängliga marknadsmaterial svarar vi som huvudregel på enbart i kundkommunikation. Information angående våra produkter och vad de gör finns på vår hemsida [vidhance.com](http://vidhance.com).
 
 **FRÅGA: I vilken utsträckning är de olika funktionerna i er produktfamilj Vidhance klara? Hur definierar ni själva att en produkt är klar? Är Live Auto Zoom klar eller inte?**
 
@@ -80,11 +80,11 @@ Samtidigt med dessa kundspecifika faser, pågår kontinuerlig vidareutveckling a
 
 **FRÅGA: Vad är er burn rate per månad? Hur länge räcker er kassa?**
 
-SVAR: Vi gör inte enskilda uttalanden om vår finansiella utveckling och svarar inte på specifika frågor kring nyckeltal. Allmänheten kan ta del av våra finansiella rapporter som finns på Imints hemsida, [www.imint.se](www.imint.se) och utifrån det göra egna analyser.
+SVAR: Vi gör inte enskilda uttalanden om vår finansiella utveckling och svarar inte på specifika frågor kring nyckeltal. Allmänheten kan ta del av våra finansiella rapporter som finns på Imints hemsida, [imint.se](http://imint.se) och utifrån det göra egna analyser.
 
 **FRÅGA: Aktiekursen har gått ned, är det läge att investera i er aktie?**
 
-Vi har som princip att inte kommentera rykten, spekulationer, aktieanalyser eller aktiens prissättning. En investering i värdepapper är förenad med risker. När investerare fattar ett investeringsbeslut måste de förlita sig på sin egen bedömning av Bolaget inklusive föreliggande sakförhållanden och risker. Allmänheten kan ta del av våra finansiella rapporter som finns på vår hemsida, [www.imint.se](www.imint.se) och utifrån det, göra egna analyser.
+Vi har som princip att inte kommentera rykten, spekulationer, aktieanalyser eller aktiens prissättning. En investering i värdepapper är förenad med risker. När investerare fattar ett investeringsbeslut måste de förlita sig på sin egen bedömning av Bolaget inklusive föreliggande sakförhållanden och risker. Allmänheten kan ta del av våra finansiella rapporter som finns på vår hemsida, [imint.se](http://imint.se) och utifrån det, göra egna analyser.
 
 ------------------------------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Nedan följer en sammanställning av Redeye’s intervju med Imints VD Andreas L
 
 **FRÅGA: Finns det möjlighet att testa er produkt i sin egen mobil?**
 
-SVAR: Nej, inte i dagsläget men eftersom vi valt att lägga vårt marknadsföringsfokus på varumärket Vidhance har vi lanserat en hemsida; vidhance.com där vi demonstrerar våra produkter i både text och i nyproducerade filmer som tydligt illustrerar funktionerna. Vår affärsmodell nu är att integrera vår mjukvara direkt i operativsystemet Android. Våra funktioner finns därför med i telefonen redan när den kommer från fabrik vilket alltså är en annan lösning än att släppa fristående appar som kan laddas ner och installeras av konsumenter. Bakgrunden till det vägvalet är att vi bedömt det mest gynnsamt ur ett både tekniskt och kommersiellt perspektiv.
+SVAR: Nej, inte i dagsläget men eftersom vi valt att lägga vårt marknadsföringsfokus på varumärket Vidhance har vi lanserat en hemsida; [vidhance.com](http://vidhance.com) där vi demonstrerar våra produkter i både text och i nyproducerade filmer som tydligt illustrerar funktionerna. Vår affärsmodell nu är att integrera vår mjukvara direkt i operativsystemet Android. Våra funktioner finns därför med i telefonen redan när den kommer från fabrik vilket alltså är en annan lösning än att släppa fristående appar som kan laddas ner och installeras av konsumenter. Bakgrunden till det vägvalet är att vi bedömt det mest gynnsamt ur ett både tekniskt och kommersiellt perspektiv.
 
 **FRÅGA: Hur får ni betalt för er mjukvara och hur mycket?**
 
@@ -100,7 +100,7 @@ SVAR: Affärsmodellen mot smartphonetillverkarna bygger i första hand på en li
 
 **FRÅGA: Hur kommunicerar ni med investerare?**
 
-SVAR: Vår kommunikation med marknaden sker primärt via kvartalsrapporter. Vid större bolagshändelser publicerar vi pressmeddelanden. Vi kommunicerar inte direkt med individuella investerare eftersom hela marknaden måste få likvärdig information vid samma tidpunkt. Vi genomför ibland presentationer men eftersom vi är i en fas med intensivt arbete med produktoptimeringar och kundutvärderingar väljer vi att lägga vårt fokus på den operationella verksamheten. Om man vill erhålla pressmeddelanden på uppdateringar från Imint kan man göra det via aktietorget.se.
+SVAR: Vår kommunikation med marknaden sker primärt via kvartalsrapporter. Vid större bolagshändelser publicerar vi pressmeddelanden. Vi kommunicerar inte direkt med individuella investerare eftersom hela marknaden måste få likvärdig information vid samma tidpunkt. Vi genomför ibland presentationer men eftersom vi är i en fas med intensivt arbete med produktoptimeringar och kundutvärderingar väljer vi att lägga vårt fokus på den operationella verksamheten. Om man vill erhålla pressmeddelanden på uppdateringar från Imint kan man göra det via [aktietorget.se](http://aktietorget.se/CisionSubscription.aspx?ISIN=SE0007692124).
 
 Jag vill understryka att det är väldigt inspirerande med det intresse och den uppriktiga nyfikenhet som finns kring vårt bolag och vår teknik. Vi önskar så klart att vi både hade mer tid och formellt utrymme att svara på alla frågor vi får men vi tror i slutändan att våra ägare stödjer vårt hårda fokus på den operativa affärsverksamheten. Som snabbväxande bolag är det många ledningsfunktioner som är under uppbyggnad vilket gör att vi än tydligare behöver lägga all ledningskraft på kunder och affärer.
 
