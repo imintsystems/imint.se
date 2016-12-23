@@ -1,0 +1,39 @@
+/* Can be used to disable all animation for a element */
+.no-animation {
+  animation: none !important;
+}
+/* Header and menu animations */
+@keyframes scaleDownHeader {
+	from {height: 160px;}
+	to {height: 100px;}
+}
+@keyframes reduceMarginNav {
+	from {margin-top: 160px;}
+	to {margin-top: 100px;}
+}
+@keyframes scaleUpHeader {
+	from {height: 100px;}
+	to {height: 160px;}
+}
+@keyframes increaseMarginNav {
+	from {margin-top: 100px;}
+	to {margin-top: 160px;}
+}
+body > header {
+	animation-name: scaleUpHeader;
+	animation-duration: 0.5s;
+}
+body > nav {
+	animation-name: increaseMarginNav;
+	animation-duration: 0.5s;
+}
+header.scrolledDown {
+	height: 100px;
+	animation-name: scaleDownHeader;
+	animation-duration: 0.5s;
+}
+body > nav.scrolledDown {
+	margin-top: 100px;
+	animation-name: reduceMarginNav;
+	animation-duration: 0.5s;
+}

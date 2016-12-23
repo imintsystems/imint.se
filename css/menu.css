@@ -1,0 +1,232 @@
+/*
+	Styling for CSS-based drop-down menus.
+	(C) Copyright 2006 Just Software Solutions Ltd.
+	Distributed under the Boost Software License, Version 1.0.
+	(See http://www.boost.org/LICENSE_1_0.txt)
+	(c) copyright 2015 Imint AB
+*/
+body > nav a,
+body > nav a:link,
+body > nav a:hover,
+body > nav a:visited {
+	text-decoration: none;
+	color: #eeeeec;
+	padding-top: 0.2em;
+	padding-bottom: 0.3em;
+	padding-right: 0.5em;
+	padding-left: 0.5em;
+}
+body > nav {
+	width: 100%;
+	background-color: #a73e10;
+	text-transform: lowercase;
+	display: none; /*Don't display when page is loading, it will be set to display block with the class .js-ready*/
+}
+body > nav ul li
+{
+	list-style-type: none;
+	color: #eeeeec;
+	background-color: #a73e10;
+}
+body > nav > ul {
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 0.5em;
+	padding-right: 1em;
+	margin: 0 auto;
+	max-width: 52em;
+}
+body > nav ul ul,
+body > nav ul li {
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+body > nav ul ul {
+	position: absolute;
+}
+body > nav li a {
+	display: block;
+	outline: none;
+}
+body > nav li a:focus, body > nav li a:hover {
+	color: #fff !important;
+	background: rgba(255, 255, 255, 0.2) !important;
+}
+body > nav ul li:hover > ul {
+	display: block;
+}
+body > nav ul ul li {
+	display: block;
+}
+@media screen and (min-width: 52em) {
+	body > header .nav-btn {
+		border: 0;
+		clip: rect(0 0 0 0);
+		height: 1px;
+		margin: -1px;
+		overflow: hidden;
+		padding: 0;
+		position: absolute;
+		width: 1px;
+	}
+	body > nav .close-btn {
+		border: 0;
+		clip: rect(0 0 0 0);
+		height: 1px;
+		margin: -1px;
+		overflow: hidden;
+		padding: 0;
+		position: absolute;
+		width: 1px;
+	}
+	body > nav {
+		display: block;
+	}
+	body > nav ul ul {
+		display: none;
+	}
+	body > nav ul ul ul {
+		margin-top: -28%;
+		left: 102%;
+	}
+	body > nav ul ul ul ul {
+		margin-top: -16.5%;
+		left: 101%;
+	}
+	body > nav > ul > li {
+		float: left;
+	}
+	body > nav > ul,
+	body > nav > ul > li,
+	body > nav > ul > li > a {
+		height: 100%;
+		box-sizing: border-box;
+	}
+	body > nav > ul > li.active > a {
+		color: #fff;
+		background: rgba(0, 0, 0, 0.2);
+	}
+}
+@media screen and (max-width: 51.99em) {
+	body > nav ul li > ul {
+		padding-left: 1em;
+	}
+	body > nav ul ul {
+		position: relative;
+	}
+	body > nav {
+		overflow: hidden;
+	}
+	body > nav {
+		position: absolute;
+		top: 0;
+		padding-top: 5.25em;
+	}
+	body > nav .close-btn {
+		position: absolute;
+		top: 1em;
+		left: 1em;
+	}
+	.js-ready body > nav {
+		height: calc(100% - 5.25em);
+		width: 60%;
+		display: block;
+	}
+	.js-ready body > nav .close-btn {
+		display: block;
+		filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+		opacity: 0.7;
+	}
+	.js-ready body > nav .close-btn:focus, .js-ready body > nav .close-btn:hover {
+		filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity: 1;
+	}
+	.close-btn {
+		display: block;
+		width: 2.625em;
+		height: 2.25em;
+		padding: 0;
+		border: 0;
+		outline: none;
+		background: #a73e10 url("../img/close-btn.svg") left center no-repeat;
+		background-size: 1.875em 1.875em;
+		white-space: nowrap;
+		text-indent: 100%;
+		filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity: 1;
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	}
+	.no-svg .close-btn {
+	backg	round-image: url("../img/close-btn.png");
+	}
+	.close-btn:focus, .close-btn:hover {
+		filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity: 1;
+	}
+	.nav-btn {
+		display: block;
+		width: 2.625em;
+		height: 2.25em;
+		padding: 0;
+		border: 0;
+		outline: none;
+		background: #062747 url("../img/nav-icon.svg") left center no-repeat;
+		background-size: 1.875em 1.5em;
+		overflow: hidden;
+		white-space: nowrap;
+		text-indent: 100%;
+		filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+		opacity: 0.7;
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	}
+	.no-svg .nav-btn {
+		background-image: url("../img/nav-icon.png");
+	}
+	.nav-btn:hover, .nav-btn:focus {
+		filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+		opacity: 1;
+	}
+	body > header .nav-btn {
+		position: absolute;
+		top: 3.5em;
+		left: 1.875em;
+	}
+	.csstransforms3d.csstransitions.js-ready body > nav {
+		left: 0;
+		-webkit-transform: translate3d(-100%, 0, 0);
+		-moz-transform: translate3d(-100%, 0, 0);
+		-ms-transform: translate3d(-100%, 0, 0);
+		-o-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		-ms-backface-visibility: hidden;
+		-o-backface-visibility: hidden;
+		backface-visibility: hidden;
+	}
+	.csstransforms3d.csstransitions.js-ready body {
+		left: 0 !important;
+		-webkit-transform: translate3d(0, 0, 0);
+		-moz-transform: translate3d(0, 0, 0);
+		-ms-transform: translate3d(0, 0, 0);
+		-o-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+		-webkit-transition: -webkit-transform 500ms ease;
+		-moz-transition: -moz-transform 500ms ease;
+		-o-transition: -o-transform 500ms ease;
+		transition: transform 500ms ease;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		-ms-backface-visibility: hidden;
+		-o-backface-visibility: hidden;
+		backface-visibility: hidden;
+	}
+	.csstransforms3d.csstransitions.js-nav body {
+		-webkit-transform: translate3d(60%, 0, 0) scale3d(1, 1, 1);
+		-moz-transform: translate3d(60%, 0, 0) scale3d(1, 1, 1);
+		-ms-transform: translate3d(60%, 0, 0) scale3d(1, 1, 1);
+		-o-transform: translate3d(60%, 0, 0) scale3d(1, 1, 1);
+		transform: translate3d(60%, 0, 0) scale3d(1, 1, 1);
+	}
+}

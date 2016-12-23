@@ -1,0 +1,61 @@
+figure#quotesTable,
+figure#lastPriceChart,
+figure#companyOwnersTable {
+	margin-left: 0;
+	margin-right: 0;
+}
+figure#companyOwnersTable > h1 {
+	font-size: 1.2em;
+}
+figure#companyOwnersTable > p {
+	font-size: 12px;
+}
+figure#companyOwnersTable > table {
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%;
+	box-sizing: border-box;
+}
+figure#companyOwnersTable > table > tbody > tr > td {
+	border: 0px;
+	border-bottom: 1px solid #9fa9ad;
+	padding-left: 0;
+	padding-right: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	background-color: #dfe5e9;
+}
+figure#companyOwnersTable > table > tbody > tr:first-of-type > td:last-of-type {
+	text-align: right;
+}
+figure#companyOwnersTable > table > tbody > tr:first-of-type > td {
+	color: #919da1;
+}
+table > caption {
+	background-color: #F8F8F8;
+	border-top: 1px solid #59594F;
+	border-right: 1px solid #59594F;
+	border-left: 1px solid #59594F;
+}
+@media only screen and (min-width: 52em) {
+	figure#quotesTable,
+	figure#lastPriceChart {
+		display: inline-block;
+	}
+	figure#quotesTable {
+		width: 33%;
+		margin-right: 1em;
+	}
+	figure#lastPriceChart {
+		width: 64%;
+	}
+	figure#quotesTable > table {
+		height: 277px;
+		width: 100%;
+	}
+	figure#lastPriceChart > div {
+		height: 300px;
+		width: 100%;
+		border: 1px solid #59594F;
+	}
+}

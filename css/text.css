@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.0em;
+	font-weight: 300;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	text-align: justify;
+	color: #2e3436;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-align: left;
+}
+h1 a, h1 a:visited, h1 a:active,
+h2 a, h2 a:visited, h2 a:active,
+h3 a, h3 a:visited, h3 a:active,
+h4 a, h4 a:visited, h4 a:active,
+h5 a, h5 a:visited, h5 a:active,
+h5 a, h6 a:visited, h6 a:active {
+	color: inherit;
+}
+article > header > h1,
+article > header > a > h1 {
+	font-size: 2.2em;
+	line-height: 1.2;
+	font-weight: 600;
+	text-align: center;
+}
+article > main > h1 {
+	font-size: 1.2em;
+	font-weight: 400
+	line-height: 1.2;
+}
+article > main > h2 {
+	font-size: 1.1em;
+	font-weight: 400
+	line-height: 1.2;
+}
+article > main > h3 {
+	font-size: 1em;
+	font-weight: 400;
+	line-height: 1.2;
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+	color: #a73e10;
+	font-weight: 400;
+}
+em {
+	font-style: italic;
+	font-weight: 400;
+}
+cite {
+	display: block;
+	font-style: normal;
+	text-align: right;
+	float: right;
+	margin-right: 40px;
+}
+blockquote *:not(cite){
+	font-style: italic;
+	font-weight: 400;
+	color: #a73e10;
+}
+blockquote > p:first-child:before {
+	content: "\201c";
+	color: #a73e10;
+}
+blockquote > p:first-child:after {
+	content: "\201d";
+	color: #a73e10;
+}
+blockquote {
+	margin-bottom: 2em;
+}
+.no-decoration,
+.no-decoration:link,
+.no-decoration:visited,
+.no-decoration:hover,
+.no-decoration:active {
+	text-decoration: none;
+	color: #2E3436;
+}

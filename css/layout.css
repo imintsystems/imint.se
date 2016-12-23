@@ -1,0 +1,349 @@
+html {
+	height: 100%;
+}
+body {
+	background-color: #eeeeec;
+	position: relative;
+	min-height: 100%;
+	box-sizing: border-box;
+}
+body > header,
+body > footer {
+	width: 100%;
+	text-align: center;
+	background-color: #062747;
+	color: #eeeeec;
+	margin: auto;
+}
+body > header > img {
+	padding: 1%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body > main > section > video {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 52em;
+	display: block;
+}
+body > main > section > article {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 50em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 1em;
+	padding-right: 1em;
+	overflow: auto;
+}
+body > main > section > article > header {
+	text-align: center;
+}
+body > main > section > article > video {
+	height: auto;
+}
+body > main > section > article > figure,
+body > main > section > article > video {
+	margin: 0;
+	max-width: 25em;
+	margin: auto;
+}
+body > main > section > article > figure > img,
+body > main > section > article > figure > a > img {
+	height: auto;
+	width: 100%;
+	display: block;
+}
+body > main > section > article > main > iframe {
+	width: 100%;
+	height: 720px;
+	border: none;
+}
+body > main > section > article > header > div > h5 {
+	margin: 0;
+}
+body > main > section > article > main > p > img {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #F3F3F2;
+	padding: 0.5em;
+	border: 1px solid #CCC;
+	display: block;
+	max-width: 80%;
+}
+article video {
+	max-width: 100%;
+}
+th,
+td {
+	border: 1px solid #59594f;
+	padding: 0.3em 0.5em;
+}
+thead > tr {
+	background-color: #f8f8f8;
+}
+tbody > tr {
+	background-color: #dddddd;
+}
+tbody > tr:nth-child(2n) {
+	background-color: #f8f8f8;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+body > header > a > img {
+	max-height: 100%;
+    margin-bottom: -5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* Styles for articles with a background image */
+body > main > section > article.background-image {
+	max-width: inherit;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	color: #eeeeec;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+body > main > section > article.background-image > header {
+	padding-top: 6em;
+	padding-bottom: 6em;
+	text-shadow: 0px 0px 2px #062747;
+}
+body > main > section > article.background-image > footer > p {
+	text-shadow: 0px 0px 2px #062747;
+	font-size: 0.8em;
+	text-align: right;
+}
+/* Styles for articles with some kind of graphic (image or video) */
+article.only-graphic {
+	padding: 0em 1em;
+	max-width: 50em;
+}
+article.only-graphic > video,
+article.only-graphic > figure {
+	max-width: 100%;
+}
+/* Styles to adapt cognito forms to our sites */
+div#c-forms-form, div.c-dropdown {
+  position: static !important;
+}
+div.c-dropdown-button {
+	display: none;
+}
+/* Styles for loading animation gif (used when loading cognito forms) */
+img#loadinggif {
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	display: block;
+}
+/* Styles for summaries of job ads and news articles */
+.job-position,
+.news-post {
+	padding: 1em 1em;
+}
+.job-position h2,
+.news-post h2 {
+	margin-bottom: 0;
+}
+.job-position h5,
+.news-post h5 {
+	margin-top: 0.5em;
+}
+/* Styles for images created with the img shortcode */
+figure.boxed-img {
+	background-color: #F3F3F2;
+	padding: 0.5em;
+	border: 1px solid #CCC;
+	margin: 0.5em 0em 0.5em 0.5em
+}
+figure.boxed-img > figcaption,
+figure.boxed-img > img {
+	text-align: center;
+	float: inherit;
+	font-size: 0.8em;
+	width: 100%;
+}
+article.news-post figure.boxed-img {
+	width: 220px;
+	margin: auto;
+}
+/* Styles for embedded youtube clips created with the youtube shortcode */
+.video-container {
+	margin: 1em 0em;
+	overflow: hidden;
+}
+.video-container iframe {
+	width: 100%;
+	height: 100%;
+}
+/* Styles for video created with the video shortcode */
+article.video {
+	position: relative;
+	color: white;
+	padding-left: 0;
+	padding-right: 0;
+	max-width: 52em;
+}
+article.video h5 {
+	position: absolute;
+	bottom: 0%;
+}
+article.video h5:first-of-type {
+	right: 50%;
+	padding-right: 20%;
+}
+article.video > h5:last-of-type {
+ 	left: 50%;
+	padding-left: 20%;
+}
+/* Styles for pagination menus */
+nav.pagination:first-of-type {
+	padding-top: 1em;
+}
+nav.pagination:last-of-type {
+	padding-bottom: 1em;
+}
+nav.pagination {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 52em;
+	font-weight: bold;
+}
+nav.pagination > main {
+	margin-right: auto;
+	margin-left: auto;
+	width: 13.5em;
+}
+/* Styles for news on the index page */
+article.latestnews article {
+	margin: 0;
+	padding: 0;
+}
+/* Common classes used when needed */
+.float-right {
+	float:right;
+}
+.float-left {
+	float:left;
+}
+.clear {
+	clear: both;
+}
+.half-width {
+	width: 50%;
+}
+.small-image {
+	width: 220px;
+}
+.hide {
+	display: none !important;
+}
+@media only screen and (min-width: 52em) {
+	body > main > section > article.graphic {
+		text-align: center;
+	}
+	body > main > section > article.graphic > * {
+		direction: ltr;
+		text-align: justify;
+	}
+	body > main > section > article.graphic > figure,
+	body > main > section > article.graphic > video,
+	body > main > section > article.graphic > main {
+		display: inline-block;
+		vertical-align: middle;
+		width: 50%;
+	}
+	body > main > section > article.graphic:nth-child(odd) {
+		direction: rtl;
+	}
+	body > main > section > article.graphic:nth-child(even) {
+		direction: ltr;
+	}
+	body > main > section > article.graphic:nth-child(odd) > figure,
+	body > main > section > article.graphic:nth-child(odd) > video,
+	body > main > section > article.graphic:nth-child(even) > main {
+		margin-left: -0.3em;
+	}
+	body > main > section > article.graphic:nth-child(even) > main {
+		padding-left: 2em;
+		width: calc(50% - 2em);
+	}
+	body > main > section > article.graphic:nth-child(odd) > main {
+		padding-right: 2em;
+		width: calc(50% - 2em);
+	}
+	body > main > footer,
+	body > main > section > article > header,
+	body > main > section > article > footer,
+	body > main > section {
+		clear: both;
+	}
+	article.news-post figure.boxed-img {
+		float: right;
+		margin: 0.5em 0em 0.5em 0.5em
+	}
+	body > main > section > article > main > p > img {
+		float: right;
+		max-width: 50%;
+		margin: 0 1.5em;
+	}
+	article.video video {
+		max-width: 52em;
+	}
+	article.video h5:first-of-type {
+		right: 50%;
+		padding-right: 15em;
+	}
+	article.video h5:last-of-type {
+	 	left: 50%;
+		padding-left: 15em;
+	}
+	/* Styles for news on the index page */
+	article.latestnews article {
+		float: left;
+		width: 45%;
+	}
+	article.latestnews article:first-child {
+		padding-right: 2em;
+	}
+	article.latestnews h2 {
+		margin-top: 0;
+		font-size: 1em;
+	}
+	article.latestnews header > div > h5 {
+		float: left;
+		padding-right: 0.5em;
+	}
+	article.latestnews h5 {
+		font-style: italic;
+		font-weight: normal;
+		margin-bottom: 0.3em;
+	}
+	body {
+		min-height: calc(100% - 192px);
+	}
+	body > header {
+		position: fixed !important;
+		z-index: 200;
+		height: 160px;
+		top: 0;
+		left: 0;
+	}
+	body > nav {
+		position: fixed !important;
+		z-index: 200;
+		top: 0;
+		left: 0;
+		margin-top: 160px;
+		height: 32px;
+	}
+	body > main {
+		margin-top: 192px;
+	}
+}

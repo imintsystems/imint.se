@@ -1,0 +1,28 @@
+body > header {
+	background-color: white;
+}
+body {
+	background: #d8dfe5;
+	background: linear-gradient(#d8dfe5, #dfe5e9) fixed;
+}
+body > main > section > article {
+	background-color: #dfe5e9;
+}
+.nav-btn {
+	background: white url("../img/nav-icon.svg") left center no-repeat;
+	opacity: 1.0;
+}
+.nav-btn:hover, .nav-btn:focus {
+	opacity: 0.8;
+}
+nav.pagination {
+	background-color: #dfe5e9;
+}
+tbody > tr {
+	background-color: #d8dfe5;
+}
+h1, h2, h3, h4, h5, h6 {
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
+}
