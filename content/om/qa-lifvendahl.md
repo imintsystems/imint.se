@@ -2,6 +2,7 @@
 title = "Q&A"
 date = 2016-09-23T00:00:00Z
 weight = 21
+draft = true
 [menu.main]
 parent = "Om"
 name = "Q&A"

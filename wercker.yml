@@ -6,7 +6,7 @@ build:
         code: |
             git submodule update --init --recursive
     - arjen/hugo-build:
-        version: "0.14"
+        version: "0.17"
 deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
