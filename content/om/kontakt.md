@@ -7,7 +7,7 @@ parent = "Om"
 name = "Kontakt"
 +++
 ## Kontakta oss
-Det enklaste sättet att kontakta oss är via vårt kontaktformulär nedan. Vi försöker svara så snabbt vi kan.
+Vi har sammanställt de vanligaste frågorna och svarat på dem i en [FAQ](/invest/faq). Läs gärna igenom den innan du skickar en fråga till oss.
 
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
