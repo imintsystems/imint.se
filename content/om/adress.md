@@ -8,6 +8,8 @@ name = "Adress"
 +++
 ![gatuvy](gatuvy_domkyrkan.jpg)
 
+Vi rekommenderar vår [FAQ](/invest/faq) där vi har besvarat de vanligaste frågorna folk skickar till oss.
+
 ### Postadress
 S:t Larsgatan 5, 2 tr
 753 11  Uppsala
