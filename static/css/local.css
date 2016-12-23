@@ -21,3 +21,8 @@ nav.pagination {
 tbody > tr {
 	background-color: #d8dfe5;
 }
+h1, h2, h3, h4, h5, h6 {
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
+}

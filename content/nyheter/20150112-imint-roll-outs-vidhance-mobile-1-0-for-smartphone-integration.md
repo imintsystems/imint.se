@@ -1,8 +1,8 @@
----
-date: 2015-01-12T13:33:01+02:00
-location: "CES, Las Vegas, USA"
-title: "Imint Roll Outs Vidhance Mobile 1.0 for Smartphone Integration, Reveals 2015 Roadmap"
----
++++
+date = 2015-01-12T13:33:01Z
+location = "CES, Las Vegas, USA"
+title = "Imint Roll Outs Vidhance Mobile 1.0 for Smartphone Integration, Reveals 2015 Roadmap"
++++
 The software company Imint AB announces the upcoming release of its integration-ready Vidhance® Mobile software platform for Android smartphones, bringing true cinematic video stabilization to devices in 2015. The Real-time Video Stabilization within the Vidhance Mobile platform is a purpose-built software that both augments existing image stabilization techniques and adds a dedicated video stabilization layer to a phone’s operating system, giving users a smooth video recording by eliminating unintended wobbling and swaying. Further, Imint also reveals its 2015 product roadmap for its Vidhance Mobile platform, which dramatically changes what consumers can expect from their own mobile device's video capabilities.<!--more--> Capabilities include auto track-and-zoom, on-the-fly cut suggestions and regional contrast enhancements, enabling consumers to instantly capture studio-produced quality video clips. The new product functionality is brought into Vidhance Mobile by fusing and adapting Imint's tried-and-tested defense system's algorithms, first launched in 2008. The first beta of Vidhance Mobile was publicly announced in October 2014, as described in earlier press releases from the company.
 
 ## Vidhance Mobile Video Stabilization

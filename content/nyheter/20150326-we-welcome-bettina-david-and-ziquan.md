@@ -1,8 +1,8 @@
----
-date: 2015-03-26T13:10:30+02:00
-location: "Uppsala, Sweden"
-title: "Imint Keeps Growing - We Welcome Bettina, David and Ziquan"
----
++++
+date = 2015-03-26T13:10:30Z
+location = "Uppsala, Sweden"
+title = "Imint Keeps Growing - We Welcome Bettina, David and Ziquan"
++++
 Imint has brought in more talents to its engineering team; and we welcome Bettina Selig, David Piuva Forsgren and Ziquan Yu, who all recently joined Imint. They all add valuable expertise and knowledge to the accelerating research, development and product building efforts. This is supportive of the goal of taking Imint to a leading position within mobile video and user experience.<!--more-->
 
 Bettina Selig has PhD in Computerized Image Analysis from the Center for Image Analysis, Uppsala. As part of her PhD research, Bettina was also a visiting student at TU Delft and Rotterdam Ophthalmic Institute, the Netherlands. Bettina also holds a Master's degree in Computer Science from Freie Universität Berlin. Bettina's primary research expertise is within automatic image segmentation algorithms, but her experience within robotic vision will also give valuable contributions to Imint. In this field, during her master studies at Freie Universität, Bettina was strongly involved in building up the vision system for autonomous robots playing soccer. Her team FU-Fighters was the proud winner of the RoboCup World Championship in Osaka in 2005. During her time at Center for Image Analysis, she also taught and mentored bachelor and master students at Uppsala University in the field of image analysis, pattern recognition and robotics, including a full term project on rescue robots.

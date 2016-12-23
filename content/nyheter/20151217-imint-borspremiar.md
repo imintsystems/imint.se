@@ -1,8 +1,8 @@
----
-date: 2015-12-17T15:00:00+02:00
-location: "Uppsala, Sweden"
-title: "Aktien rusar i höjden efter börspremiär"
----
++++
+date = 2015-12-17T15:00:00Z
+location = "Uppsala, Sweden"
+title = "Aktien rusar i höjden efter börspremiär"
++++
 Onsdagen den 16 december 2015 noterades Imint på [Aktietorget](https://www.aktietorget.se/Instrument.aspx?ID_Company=413).
 
 Intresset var stort och det märks inte minst på aktiekursen. "Affärsidén har fått aktiemarknaden att bli vild av glädje" skriver [Dagens Industri](http://digital.di.se/artikel/videobolaget-imint-tokrusar-pa-borsen) <!--more-->

@@ -18,4 +18,7 @@ Våra internationella kunder och partners har höga förväntningar på oss och 
 
 Imint uppskattar olika typer av erfarenheter, bakgrunder och åsikter.
 
-Läs mer om våra öppningar och hur det är att jobba på Imint på vår [karriärsida](http://vidhance.com/career).
+# Vi söker just nu
+
+[Senior utvecklare](/om/senior-utvecklare)
+[Senior integrationsingenjör](/om/senior-integrationsingenjor)

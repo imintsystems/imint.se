@@ -28,7 +28,8 @@ function appendElementById(id, element) {
 }
 function createTable(data, caption) {
 	var table = createElement("table");
-	table.appendChild(createElement("caption", caption));
+	if (caption)
+		table.appendChild(createElement("caption", caption));
 	var tableBody = createElement("tbody");
 	for (var i = 0; i < data.length; i++) {
 		var tableRow = createElement("tr");
@@ -143,4 +144,25 @@ function drawLastPriceChart(id) {
 			});
 		});
 	}
+}
+function appendCompanyOwnersTableTo(id) {
+	sendAjaxRequest("http://json.aktietorget.se/companyowners.json?id="+ISIN+"&sf=capitalpercent&sd=2", function(event) {
+		var data = event.target.response;
+		var element;
+		if (data) {
+			var tableData = [];
+			tableData.push(["Namn", "Kapital %"]);
+			for (var i = 0; i < data.CompanyOwners.length; i++) {
+				var owner = data.CompanyOwners[i];
+				tableData.push([owner.Name, owner.CapitalPercent.toFixed(2)]);
+			}
+			element = createTable(tableData);
+			var latestUpdate = createElement("p");
+			var header = createElement("h1", "Största ägarna i aktieboken"); 
+			latestUpdate.appendChild(createElement("em", "Data uppdaterad " + data.OwnerDateAsString));
+			appendElementById(id, header);
+			appendElementById(id, latestUpdate);
+			appendElementById(id, element);
+		}
+	});
 }

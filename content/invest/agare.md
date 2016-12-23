@@ -6,7 +6,7 @@ weight = 40
 parent = "Investor relations"
 name = "Ägare"
 +++
-# Imints huvudägare
+<figure id="companyOwnersTable"></figure>
 
 ## Professionell Ägarstyrning i Sverige AB (PÄAB)  
 PÄAB är ett investmentbolag som investerar i nystartade, icke börsnoterade företag, företrädesvis högteknologiska innovationsbolag, och bidrar med professionell expertis. PÄAB har gjort flera investeringar i Imint.
@@ -18,4 +18,11 @@ Almi Invest har som mål att skapa tillväxt och förnyelse genom att investera 
 UUAB främjar samarbete mellan Uppsala universitet och industrin. De gör detta dels genom att stödja forskningssamarbete dem emellan och dels genom att stödja utvecklingen och kommersialiseringen av idéer från forskningen vid universitetet. UUAB är universitetets holdingbolag och ägs av svenska staten och förvaltas av Uppsala universitet. Dess styrelse utses av universitetet rektor. Genom UUAB kan universitetet licensiera ut ny teknik och etablera nya forskningsbaserade företag. UUAB har gjort i rad investeringar i Imint.
 
 # Övriga
-I övrigt ägs Imint av en kombination av tidiga och mer nytillkomna investerare, samt medarbetare, totalt idag runt 80 ägare.
+I övrigt ägs Imint av ett stort antal ägare som består av tidiga och mer nytillkomna investerare, samt medarbetare.
+
+<script type="text/javascript" src="/script/aktietorget.js"></script>
+<link rel="stylesheet" href="/css/aktietorget.css">
+
+<script>
+	appendCompanyOwnersTableTo("companyOwnersTable");
+</script>
