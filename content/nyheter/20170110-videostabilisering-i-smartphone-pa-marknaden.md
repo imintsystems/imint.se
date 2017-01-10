@@ -10,3 +10,13 @@ Imint kan nu bekräfta att den första produkten med Vidhance videostabilisering
 Andreas Lifvendahl, VD, kommenterar:
 
 >I samband med att vi kommunicerade det treåriga licensavtalet i slutet på oktober, meddelade vi att vi arbetar intensivt för att erhålla design wins och vara med i produkter som lanseras på marknaden. Att vi nu kan bekräfta att så har skett är glädjande och visar att vår mjukvara är konkurrenskraftig och uppfattas som attraktiv för våra kunder.
+
+För ytterligare information, vänligen kontakta:
+
+Andreas Lifvendahl, VD Imint, e-post: andreas.lifvendahl@imint.se
+
+Jens Ålander, CFO Imint, e-post: jens.alander@vidhance.com
+
+Telefon: 018-474 99 90
+
+_Denna information är sådan information som IMINT är skyldigt att offentliggöra enligt EU:s marknadsmissbruksförordning. Informationen lämnades, genom ovanstående kontaktpersons försorg, för offentliggörande den 10 januari 2016._
