@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start-rsses on Imint</title>
-    <link>http://imint.se/start/index.xml</link>
-    <description>Recent content in Start-rsses on Imint</description>
+    <title>Starts on Imint</title>
+    <link>http://imint.se/start/</link>
+    <description>Recent content in Starts on Imint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <atom:link href="http://imint.se/start/index.xml" rel="self" type="application/rss+xml" />
