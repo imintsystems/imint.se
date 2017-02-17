@@ -1,0 +1,15 @@
+<article {{ if isset .Params "image" }} class="graphic" {{ end }}>
+	<header><h1>{{ .Title }}</h1></header>
+	{{ if isset .Params "image" }}
+		<figure>
+			<img src="{{ .RelPermalink }}{{ .Params.image }}">
+		</figure>
+	{{ end }}
+	<main>
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a href="{{ .RelPermalink }}">Läs mer</a>
+		{{ end }}
+	</main>
+	<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
+</article>
