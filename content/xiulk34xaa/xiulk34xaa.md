@@ -1,5 +1,5 @@
 ﻿+++
-title = "Breaking news"
+title = ""
 date = 2015-10-14T00:00:00Z
 bild1 = "bilden.png"
 bild2 = "bilden.png"
