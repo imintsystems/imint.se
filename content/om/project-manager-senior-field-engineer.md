@@ -8,7 +8,7 @@ location = "Shanghai, China"
 ## BACKGROUND
 Imint is a software company founded in 2007 and headquartered in Uppsala, Sweden. Its software platform Vidhance stems from university research within image analysis, and performs real-time analysis, enhancement and optimization on video. Imint has its background within the industrial and defence domains, and is now expanding rapidly within the consumer mobile segment. Imints Vidhance is fit to run on a smartphone OS, as part of an app, or as a cloud service. In the fast growing market for mobile video, Vidhance promises to radically change the way video is being used, from capture, curation and collaboration.
 
-Imint is now planning to expand in China, by recruiting a Project Manager with a software development background, for key Chinese customers in Mainland China. 
+Imint is now planning to expand in China, by recruiting a Project Manager with a software development background, for key Chinese customers in Mainland China. This position will be based in Shanghai.
 
 ## RESPONSIBILITIES
 
