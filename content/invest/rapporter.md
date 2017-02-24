@@ -16,6 +16,7 @@ name = "Rapporter"
 [Q3 2016](/invest/imint-q3-2016.pdf)
 
 ## Bokslutskommunikér
+[Bokslutskommuniké 2016](/invest/bokslutskommunike-20170224.pdf)
 [Bokslutskommuniké 2015](/invest/Imint_kommunike_160229.pdf)
 
 ## Årsredovisningar

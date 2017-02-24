@@ -5,6 +5,8 @@ title = "Bokslutskommuniké för 2016"
 +++
 Bokslutskommuniké för IMINT Image Intelligence AB 1 januari–31 december 2016<!--more-->
 
+Nedan följer ett sammandrag från kommunikén. [Klicka här](/invest/bokslutskommunike-20170224.pdf) för att se den i sin helhet.
+
 ## Fjärde kvartalet, 1 oktober-31 december 2016
 * Nettoomsättningen för kvartalet uppgick till 1,7 Mkr (0,0 Mkr)
 * Rörelsens kostnader för kvartalet uppgick till 7,4 Mkr (5,6 Mkr)
