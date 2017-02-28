@@ -1,7 +1,7 @@
 +++
 date = 2017-02-15T11:00:00Z
 location = "Uppsala, Sverige"
-title = ""
+title = "Imint presenterar valberedningen"
 +++
 Valberedning i Imint Image Intelligence AB (Imint) har utsetts. Valberedningen ska, i enlighet med stämmobeslut, bestå av representanter för de tre största ägarna.<!--more-->
 
