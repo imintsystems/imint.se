@@ -19,4 +19,4 @@ Jens Ålander, CFO Imint, e-post: jens.alander@vidhance.com
 
 Telefon: 018-474 99 90
 
-_Denna information är sådan information som IMINT är skyldigt att offentliggöra enligt EU:s marknadsmissbruksförordning. Informationen lämnades, genom ovanstående kontaktpersons försorg, för offentliggörande den 10 januari 2016._
+_Denna information är sådan information som IMINT är skyldigt att offentliggöra enligt EU:s marknadsmissbruksförordning. Informationen lämnades, genom ovanstående kontaktpersons försorg, för offentliggörande den 10 januari 2017._
