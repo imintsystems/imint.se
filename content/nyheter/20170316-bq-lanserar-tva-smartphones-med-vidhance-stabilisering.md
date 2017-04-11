@@ -35,7 +35,7 @@ E-post: jens.alander@vidhance.com
 
 Telefon: 018-474 99 90
 
-Denna information är sådan information som IMINT är skyldigt att offentliggöra enligt EU:s marknadsmissbruksförordning. Informationen lämnades, genom ovanstående kontaktpersons försorg, för offentliggörande den 27 februari 2017.
+Denna information är sådan information som IMINT är skyldigt att offentliggöra enligt EU:s marknadsmissbruksförordning. Informationen lämnades, genom ovanstående kontaktpersons försorg, för offentliggörande den 16 mars 2017.
 
 **Om Imint:**
 
