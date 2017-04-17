@@ -20,6 +20,7 @@ name = "Rapporter"
 [Bokslutskommuniké 2015](/invest/Imint_kommunike_160229.pdf)
 
 ## Årsredovisningar
+[Årsredovisning 2016](/invest/imint-arsredovisning-2016.pdf)
 [Årsredovisning 2015](/invest/imint-arsredovisning-2015.pdf)
 [Årsredovisning 2014](/invest/imint-arsredovisning-2014.pdf)
 [Årsredovisning 2013](/invest/imint-arsredovisning-2013.pdf)
