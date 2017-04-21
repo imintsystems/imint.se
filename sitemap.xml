@@ -2,8 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://imint.se/</loc>
-    <lastmod>2017-04-07T10:00:00+00:00</lastmod>
+    <loc>http://imint.se/om/career/</loc>
+    <lastmod>2017-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/introduction/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/losningar/telefon/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/karriar/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/video/</loc>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/teknologi/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/losningar/appar/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/ledning/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/styrelse/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/uav/</loc>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/rapporter/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/latestNews/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/losningar/komprimering/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/losningar/flygtrafikledning/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/agare/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/losningar/flygspaning/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/valberedning/</loc>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/media/</loc>
+    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/informationsgivning/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/citat/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/losningar/undervatten/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/faq/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/slut/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/invest/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/start/proffsresultat/</loc>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/adress/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/kontakt/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/senior-utvecklare/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/project-manager-senior-field-engineer/</loc>
+    <lastmod>2017-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imint.se/om/senior-integrationsingenjor/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -266,154 +412,39 @@
   </url>
   
   <url>
-    <loc>http://imint.se/om/career/</loc>
+    <loc>http://imint.se/</loc>
     <lastmod>2017-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/introduction/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/losningar/telefon/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/om/karriar/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/video/</loc>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/teknologi/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/losningar/appar/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/om/ledning/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/om/styrelse/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/uav/</loc>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/invest/rapporter/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/latestNews/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/losningar/komprimering/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/losningar/flygtrafikledning/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/invest/agare/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/losningar/flygspaning/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/invest/valberedning/</loc>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/invest/media/</loc>
-    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/invest/informationsgivning/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/citat/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/losningar/undervatten/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/invest/faq/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/start/slut/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://imint.se/invest/</loc>
     <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://imint.se/start/proffsresultat/</loc>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/om/adress/</loc>
+    <loc>http://imint.se/losningar/</loc>
     <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://imint.se/om/kontakt/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+    <loc>http://imint.se/nyheter/</loc>
+    <lastmod>2017-04-07T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://imint.se/om/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/om/senior-utvecklare/</loc>
-    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imint.se/om/project-manager-senior-field-engineer/</loc>
     <lastmod>2017-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://imint.se/om/senior-integrationsingenjor/</loc>
-    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+    <loc>http://imint.se/start/</loc>
+    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
