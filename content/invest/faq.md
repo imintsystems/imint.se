@@ -10,6 +10,10 @@ name = "FAQ"
 
 Bolaget får många frågor angående Imints produkter, kunder och marknad. Här nedan följer några av alla frågor som kommer till oss och våra svar till dem.
 
+**[I den här PDF:en](/invest/fragor-till-imint-20170224.pdf) har vi sammanställt frågor och svar från vår webcast den 24 februari 2017.**
+
+---
+
 **FRÅGA: Varför kan ni inte avslöja vem kunden är i det 3-åriga licensavtalet som publicerades i slutet av oktober?**
 
 SVAR: Önskemålet och ståndpunkten från Imints sida är som regel att kunna nämna kunder och produkter eftersom det har ett marknadsföringsvärde och för att kunna delge marknaden informationen.
