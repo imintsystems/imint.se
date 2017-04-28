@@ -11,9 +11,10 @@ name = "Rapporter"
 
 ## Delårsrapporter
 
-[Q1 2016](/invest/imint-q1-2016.pdf)
-[Q2 2016](/invest/imint-q2-2016.pdf)
+[Q1 2017](/invest/imint-q1-2017.pdf)
 [Q3 2016](/invest/imint-q3-2016.pdf)
+[Q2 2016](/invest/imint-q2-2016.pdf)
+[Q1 2016](/invest/imint-q1-2016.pdf)
 
 ## Bokslutskommunikér
 [Bokslutskommuniké 2016](/invest/bokslutskommunike-20170224.pdf)
