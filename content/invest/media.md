@@ -6,6 +6,10 @@ weight = 60
 parent = "Investor relations"
 name = "Media"
 +++
+# VD presenterar Imint på Småbolagsdagen 2017
+
+<iframe frameborder="0" scrolling="0" height="180" width="320" src="https://redeye.solidtango.com/widgets/embed/szanjswx?auto_play=false" allowfullscreen></iframe>
+
 # VD presenterar Imint på Redeye Technology Seminar 2016
 
 <iframe frameborder="0" scrolling="0" height="180" width="320" src="https://redeye.solidtango.com/widgets/embed/8q176mr7?auto_play=false" allowfullscreen></iframe>
