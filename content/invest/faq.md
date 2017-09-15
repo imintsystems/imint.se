@@ -11,6 +11,7 @@ name = "FAQ"
 Bolaget får många frågor angående Imints produkter, kunder och marknad. Här nedan följer några av alla frågor som kommer till oss och våra svar till dem.
 
 **[I den här PDF:en](/invest/fragor-till-imint-20170224.pdf) har vi sammanställt frågor och svar från vår webcast den 24 februari 2017.**
+**[Klicka här](/invest/fragor-till-imint-20170822.pdf) för att se en sammanställning av frågor och svar från vår webcast den 24 april och 22 augusti 2017.**
 
 ---
 
