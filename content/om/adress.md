@@ -6,13 +6,11 @@ weight = 90
 parent = "Om"
 name = "Adress"
 +++
-![gatuvy](gatuvy_domkyrkan.jpg)
-
 Vi rekommenderar vår [FAQ](/invest/faq) där vi har besvarat de vanligaste frågorna som folk skickar till oss.
 
 ### Postadress
-S:t Larsgatan 5, 2 tr
-753 11  Uppsala
+Kungsängsgatan 12, 3 tr
+753 22 Uppsala
 Sverige
 
 ### Telefon
@@ -21,6 +19,4 @@ Sverige
 ### Epost
 [info@imint.se] (mailto:info@imint.se)
 
-Imint håller till på våningen högst upp ovanför Smålands nation, mitt i de gamla akademiska kvarteren i Uppsala.
-
-<iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=17.62158751487732%2C59.856427344260275%2C17.6395046710968%2C59.862083931349524&amp;layer=mapnik&amp;marker=59.85925575803042%2C17.63054609298706" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=59.85926&amp;mlon=17.63055#map=17/59.85926/17.63055">Visa större karta</a></small>
+<iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=17.632530927658085%2C59.85438534943681%2C17.650448083877567%2C59.86003150950006&amp;layer=mapnik&amp;marker=59.85720854924131%2C17.641489505767822" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=59.85721&amp;mlon=17.64149#map=17/59.85721/17.64149&amp;layers=N">View Larger Map</a></small>
