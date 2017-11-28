@@ -23,7 +23,8 @@
 
 &lt;h2 id=&#34;delårsrapporter:d820ae0e474882a15609a0f3d40c5108&#34;&gt;Delårsrapporter&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://imint.se/invest/imint-q2-2017.pdf&#34;&gt;Q2 2017&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://imint.se/invest/imint-q3-2017.pdf&#34;&gt;Q3 2017&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://imint.se/invest/imint-q2-2017.pdf&#34;&gt;Q2 2017&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://imint.se/invest/imint-q1-2017.pdf&#34;&gt;Q1 2017&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://imint.se/invest/imint-q3-2016.pdf&#34;&gt;Q3 2016&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://imint.se/invest/imint-q2-2016.pdf&#34;&gt;Q2 2016&lt;/a&gt;&lt;br /&gt;
@@ -306,7 +307,7 @@
 
 &lt;p&gt;Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har från kunder. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &amp;mdash; ja, kanske upphäva &amp;mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.&lt;/p&gt;
 
-&lt;h2 id=&#34;aktieinformation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aktieinformation&lt;/h2&gt;
+&lt;!--## Aktieinformation
 
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://www.google.com/jsapi&#34;&gt;&lt;/script&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;http://imint.se/script/aktietorget.js&#34;&gt;&lt;/script&gt;
@@ -318,14 +319,14 @@
 &lt;script&gt;
     appendQuotesTableTo(&#34;quotesTable&#34;);
     drawLastPriceChart(&#34;lastPriceChart&#34;);
-&lt;/script&gt;
+&lt;/script&gt;--&gt;
 
 &lt;h2 id=&#34;mer-om-aktien-på-aktietorget:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Mer om aktien på aktietorget&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://aktietorget.se/Instrument.aspx?InstrumentID=SE0007692124&#34;&gt;Översikt&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aktietorget.se/InstrumentKeyNumbers.aspx?InstrumentID=SE0007692124&#34;&gt;Nyckeltal&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://aktietorget.se/InstrumentNews.aspx?InstrumentID=SE0007692124&#34;&gt;Nyheter&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aktietorget.se/bolag/oeversikt/?id=413&amp;amp;InstrumentID=SE0007692124&#34;&gt;Översikt&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aktietorget.se/bolag/nyckeltal/?id=413&amp;amp;InstrumentID=SE0007692124&#34;&gt;Nyckeltal&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aktietorget.se/bolag/nyheter/?id=413&amp;amp;InstrumentID=SE0007692124&#34;&gt;Nyheter&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
