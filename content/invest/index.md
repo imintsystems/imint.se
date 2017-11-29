@@ -9,7 +9,7 @@ Imint är ett bolag som föddes ur två entreprenörers forskning vid Uppsala un
 
 Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har från kunder. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &mdash; ja, kanske upphäva &mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.
 
-## Aktieinformation
+<!--## Aktieinformation
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript" src="/script/aktietorget.js"></script>
@@ -21,9 +21,8 @@ Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har f
 <script>
 	appendQuotesTableTo("quotesTable");
 	drawLastPriceChart("lastPriceChart");
-</script>
-
+</script>-->
 ## Mer om aktien på aktietorget
-* [Översikt](http://aktietorget.se/Instrument.aspx?InstrumentID=SE0007692124)
-* [Nyckeltal](http://aktietorget.se/InstrumentKeyNumbers.aspx?InstrumentID=SE0007692124)
-* [Nyheter](http://aktietorget.se/InstrumentNews.aspx?InstrumentID=SE0007692124)
+* [Översikt](https://www.aktietorget.se/bolag/oeversikt/?id=413&InstrumentID=SE0007692124)
+* [Nyckeltal](https://www.aktietorget.se/bolag/nyckeltal/?id=413&InstrumentID=SE0007692124)
+* [Nyheter](https://www.aktietorget.se/bolag/nyheter/?id=413&InstrumentID=SE0007692124)
